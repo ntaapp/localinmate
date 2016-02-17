@@ -1,5 +1,5 @@
 { 
   "max":25, "min":1, "value":5,
   "bannerAds":true,
-  "interAds":true,
+  "interAds":true
 }
