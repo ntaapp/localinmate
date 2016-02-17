@@ -1,5 +1,1 @@
-{
-  "max":5,
-  "min":1,
-  "value":5
-}
+using this project to control app remotely :-)
