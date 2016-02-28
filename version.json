@@ -1,4 +1,4 @@
 {
-  "IOS":{ "newest": "1.2", "version":2} ,
-  "ANDROID":{"newest": "0.0", "version":0}
+  "IOS":{ "number": 4, "version":"1.4"} ,
+  "ANDROID":{"number": 2, "version":"1.1"}
 }
