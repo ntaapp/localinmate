@@ -1,4 +1,4 @@
 {
-  "IOS":{ "number": 4, "version":"1.4"} ,
-  "ANDROID":{"number": 2, "version":"1.1"}
+  "IOS":{ "number": 4, "version":"1.4","url":"https://itunes.apple.com/app/id1061949313"} ,
+  "ANDROID":{"number": 2, "version":"1.1","url":"https://play.google.com/store"}
 }
